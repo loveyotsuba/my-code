@@ -1,0 +1,1 @@
+g++ -g h264.cpp -I ./include/ -L lib/ -lavcodec -lavutil -lavformat -o h264.out
